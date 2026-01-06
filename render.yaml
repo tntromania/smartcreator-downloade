@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: smartcreator-downlader
+    env: docker
+    region: frankfurt
+    plan: free
